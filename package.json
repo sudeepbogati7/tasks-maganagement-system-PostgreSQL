@@ -1,0 +1,21 @@
+{
+  "name": "task-mgnt-system",
+  "version": "1.0.0",
+  "description": "A task management system where you can create, update and delete tasks ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Sudeep Bogati",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2",
+    "pg": "^8.11.3",
+    "sequelize": "^6.36.0"
+  }
+}
