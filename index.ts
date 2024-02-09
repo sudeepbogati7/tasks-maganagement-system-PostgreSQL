@@ -23,7 +23,7 @@ app.listen(PORT, () => {
 
 
 
-//sync models to db 
+//sync models to db -- for-dev-env-only 
 sequelize.sync({force : true})
     .then(() => console.log("Database synchronized successfully ! "))
     .catch(error => console.log("Error while syncrhonizing the database !!"));
