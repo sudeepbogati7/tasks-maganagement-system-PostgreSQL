@@ -13,5 +13,8 @@ Where you can add and manage your daily tasks
 
 Since it is only the backend API, 
 
-`express.js`, `Node.js` , `PostgreSQL DB` , `sequelize` ORM , `jsonwebtoken` for authorization
+- `express.js`, `Node.js` ,
+- `PostgreSQL DB` , `sequelize` ORM ,
+- `jsonwebtoken` for authorization , `bcrypt` for hashing password , `nodemailer` for sending mails
+  
 
