@@ -10,7 +10,8 @@ Where you can add and manage your daily tasks
 
 
 **Tech Stacks** :
+
 Since it is only the backend API, 
 
--`express.js`
+`express.js`, `Node.js` , `PostgreSQL DB` , `sequelize` ORM , `jsonwebtoken` for authorization
 
