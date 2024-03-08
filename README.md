@@ -9,7 +9,8 @@ Where you can add and manage your daily tasks
 - Automated email in passwords-fogotten case
 
 
-**Tech Stacks**:
+**Tech Stacks** :
+Since it is only the backend API, 
 
-Since it is only the backend API ,
-- 
+-`express.js`
+
